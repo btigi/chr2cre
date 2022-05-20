@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4e1h882fflq86o1f?svg=true)](https://ci.appveyor.com/project/igi/chr2cre)
+
+---
+
 # chr2cre
 
 A small webapi to convert an Infinity Engine CHR file to an Infinity Engine CRE file
